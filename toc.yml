@@ -21,6 +21,8 @@ project:
             - file: tutorials/euclid_access/4_Euclid_intro_PHZ_catalog.md
             - file: tutorials/euclid_access/5_Euclid_intro_SPE_catalog.md
             - file: tutorials/cloud_access/euclid-cloud-access.md
+            - file: tutorials/parquet-catalog-demos/euclid-q1-hats/01-introduction.md
+            - file: tutorials/parquet-catalog-demos/euclid-q1-hats/02-magnitudes.md
     - title: WISE
       children:
         - title: AllWISE
